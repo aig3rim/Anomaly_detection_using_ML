@@ -1,4 +1,4 @@
-# Anomaly_detection
+# Anomaly_detection_using_ML
 
 ## Introduction
 **Anomaly detection** also known as outlier detection is a data mining process used to determine types of anomalies found in a dataset and to determine details about their occurrences. Automatic anomaly detection is critical in today’s world where the sheer volume of data makes it impossible to tag outliers manually. Auto anomaly detection has a wide range of applications such as fraud detection, system health monitoring, fault detection, and event detection systems in sensor networks, and so on.
