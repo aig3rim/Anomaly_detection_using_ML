@@ -26,7 +26,7 @@ You need an installation of Python, plus the following libraries:
 * sklearn
 
 ## Summary and key findings
-We have done price anomaly detection using 4 different methods (K-means clustering, Isolation Forest, One Class SVM, Gaussian Distribution). It is clear that the methods provide different results such as:
+The price anomaly detection was done using 4 different methods (K-means clustering, Isolation Forest, One Class SVM, Gaussian Distribution). It is clear that the methods provide different results such as:
 * With K-means clustering approach anomalies are found for apartments with ~ midium and high range of prices;
 * The anomalies range for Isolation Forest technique belongs to both mid and high ranges of price for a rent. However, Isolation Forest techniques gives more anomalies in a higher range of prices than k-means clustering;
 * With One Class SVM we could find anomalies for low, mid and high price ranges of a rent. Moreover, this is the only method which gives anomalies for a low range prices;
